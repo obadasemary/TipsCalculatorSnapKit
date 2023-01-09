@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AF972EF5296B63DF0016B7E0 /* AmountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF972EF4296B63DF0016B7E0 /* AmountView.swift */; };
 		AF972EF7296B66990016B7E0 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF972EF6296B66990016B7E0 /* UIView+Extension.swift */; };
+		AF972EF9296B6E3B0016B7E0 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF972EF8296B6E3B0016B7E0 /* HeaderView.swift */; };
 		AFB6AEEC2965C8240021F0F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB6AEEB2965C8240021F0F4 /* AppDelegate.swift */; };
 		AFB6AEEE2965C8240021F0F4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB6AEED2965C8240021F0F4 /* SceneDelegate.swift */; };
 		AFB6AEF02965C8240021F0F4 /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB6AEEF2965C8240021F0F4 /* CalculatorViewController.swift */; };
@@ -53,6 +54,7 @@
 /* Begin PBXFileReference section */
 		AF972EF4296B63DF0016B7E0 /* AmountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountView.swift; sourceTree = "<group>"; };
 		AF972EF6296B66990016B7E0 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		AF972EF8296B6E3B0016B7E0 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		AFB6AEE82965C8240021F0F4 /* TipsCalculatorSnapKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipsCalculatorSnapKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFB6AEEB2965C8240021F0F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFB6AEED2965C8240021F0F4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -177,6 +179,7 @@
 				AFD2CF2A2965D14A00AAC19B /* TipInputView.swift */,
 				AFD2CF2C2965D15900AAC19B /* SplitInputView.swift */,
 				AF972EF4296B63DF0016B7E0 /* AmountView.swift */,
+				AF972EF8296B6E3B0016B7E0 /* HeaderView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -363,6 +366,7 @@
 				AFB6AEEC2965C8240021F0F4 /* AppDelegate.swift in Sources */,
 				AF972EF7296B66990016B7E0 /* UIView+Extension.swift in Sources */,
 				AFD2CF3229663B3400AAC19B /* ThemeFont.swift in Sources */,
+				AF972EF9296B6E3B0016B7E0 /* HeaderView.swift in Sources */,
 				AFB6AEEE2965C8240021F0F4 /* SceneDelegate.swift in Sources */,
 				AFD2CF382966584D00AAC19B /* LabelFactory.swift in Sources */,
 				AFD2CF2D2965D15A00AAC19B /* SplitInputView.swift in Sources */,
